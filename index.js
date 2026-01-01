@@ -48,3 +48,5 @@ secondPassword.addEventListener("click", function () {
     }, 1500);
   });
 });
+
+// Comment to try GitHub commit in VSCode
